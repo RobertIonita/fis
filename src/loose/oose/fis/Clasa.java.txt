@@ -1,0 +1,5 @@
+class Clasa{
+	public void printSomething(){
+		System.out.println("something");
+	}
+}
